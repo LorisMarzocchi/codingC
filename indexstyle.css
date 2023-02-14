@@ -16,7 +16,7 @@ body{
 }
   
 
-.logoconteiner{
+.logocontainer{
     display: block;
     margin: auto;
     text-align: center;
@@ -28,7 +28,7 @@ body{
     
     margin-top: 15px;
     width: 200px;
-    max-height: auto; 
+     
 }
 
 
